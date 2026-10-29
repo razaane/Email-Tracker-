@@ -1,0 +1,12 @@
+{
+  "email": "wakhidirazane@gmail.com",
+  "app_password": "xxxx xxxx xxxx xxxx",
+  "sender_name": "Razane Wakhidi",
+  "mode": "draft",
+  "cv_path": "CV_Razane_Wakhidi_FullStack_Dev.pdf",
+  "tracker_file": "tracker.xlsx",
+  "template_file": "template.txt",
+  "delay_seconds": 20,
+  "default_contact": "Madame, Monsieur",
+  "drafts_folder": ""
+}
