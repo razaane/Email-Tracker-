@@ -1,14 +1,23 @@
-Subject: Candidature – Développeuse web – {company}
+Subject: Spontaneous Application – Full Stack Developer | Razane Wakhidi
 
-Bonjour {contact},
+Dear {contact},
 
-Je me permets de vous contacter afin de vous proposer ma candidature au sein de {company}.
+My name is Razane Wakhidi, and I am a Full Stack Developer reaching out to express my interest in potential job opportunities within your company.
 
-Passionnée par le développement web, je suis motivée à rejoindre une équipe dynamique où je pourrai mettre mes compétences au service de vos projets et continuer à progresser.
+I have hands-on experience in web development, working with technologies such as PHP, Laravel, JavaScript, Node.js, and databases to build and maintain web applications.
 
-Vous trouverez mon CV en pièce jointe. Je serais ravie d'échanger avec vous lors d'un entretien.
+Trained in Agile/Scrum methodologies, I am adaptable, proactive, and eager to learn new technologies based on project requirements. I enjoy solving technical challenges, taking initiative, and contributing to meaningful projects.
 
-Dans l'attente de votre retour, je vous prie d'agréer mes salutations distinguées.
+I am currently seeking an opportunity to join a professional development team where I can contribute my technical skills, gain valuable experience, and grow as a Full Stack Developer.
 
-Votre Prénom Nom
-Téléphone : 06 00 00 00 00
+I am open to relocation and would be happy to discuss on-site, hybrid, or remote opportunities depending on your company's needs.
+
+Please find my CV attached for your consideration. I would be grateful if you could consider my profile for any current or future opportunities that match my skills.
+
+Thank you for your time and consideration. I look forward to the possibility of hearing from you.
+
+Best regards,
+
+Razane Wakhidi
+Full Stack Developer
+Phone: +212 6 45 39 73 30
